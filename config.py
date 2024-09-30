@@ -1,0 +1,1 @@
+LOGGDIR = "/mnt/data/AI_NURSE_LLM_LOGS/"

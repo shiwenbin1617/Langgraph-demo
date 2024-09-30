@@ -1,0 +1,13 @@
+[31m2024-09-19 09:58:38,963 - __main__ - ERROR - ❌ fNo weather data available for city adcode: {city_adcode}
+[31m2024-09-19 09:59:04,257 - __main__ - ERROR - ❌ No weather data available for city adcode: 340100
+[31m2024-09-19 09:59:54,797 - __main__ - ERROR - ❌ No weather data available for city adcode: 340100
+[31m2024-09-19 10:00:28,729 - __main__ - ERROR - ❌ No weather data available for city adcode: 340100
+[31m2024-09-19 10:56:11,081 - __main__ - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 10:57:37,244 - __main__ - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 10:58:46,321 - __main__ - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 10:58:55,657 - __main__ - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 13:40:00,451 - __main__ - ERROR - ❌ An unexpected error occurred: sequence item 0: expected str instance, FluentValue found
+[31m2024-09-19 13:40:37,181 - __main__ - ERROR - ❌ An unexpected error occurred: sequence item 0: expected str instance, FluentValue found
+[31m2024-09-19 13:41:48,594 - __main__ - ERROR - ❌ An unexpected error occurred: sequence item 0: expected str instance, FluentValue found
+[31m2024-09-19 13:42:41,369 - __main__ - ERROR - ❌ An unexpected error occurred: sequence item 0: expected str instance, FluentValue found
+[31m2024-09-19 13:46:57,982 - __main__ - ERROR - ❌ An unexpected error occurred: HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?prop=info%7Cpageprops&inprop=url&ppprop=disambiguation&redirects=&titles=%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0&format=json&action=query (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))

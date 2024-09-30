@@ -1,0 +1,7 @@
+[31m2024-09-19 11:06:40,191 - tools.get_medicine_details - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 11:13:44,152 - tools.get_medicine_details - ERROR - ❌ Request error occurred: [Errno 54] Connection reset by peer
+[31m2024-09-19 11:14:37,638 - tools.get_medicine_details - ERROR - ❌ No medicine data available for medicine: 地舒单抗
+[31m2024-09-19 13:36:55,445 - tools.get_medicine_details - ERROR - ❌ An unexpected error occurred: Could not import mediawikiapi python package. Please install it with `pip install mediawikiapi`.
+[31m2024-09-19 13:37:31,783 - tools.get_medicine_details - ERROR - ❌ An unexpected error occurred: 'WikipediaAPIWrapper' object does not support item assignment
+[31m2024-09-19 13:38:15,862 - tools.get_medicine_details - ERROR - ❌ An unexpected error occurred: Could not import wikibase_rest_api_client python package. Please install it with `pip install wikibase-rest-api-client`.
+[31m2024-09-19 13:38:51,315 - tools.get_medicine_details - ERROR - ❌ An unexpected error occurred: sequence item 0: expected str instance, FluentValue found
